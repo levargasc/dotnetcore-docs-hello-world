@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'webapp-portalChamo-01'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_278FFA43A4544325A000291F7A801AF9 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_131E719779A44F5AA933CB65C9A82C2B }}
           package: .
